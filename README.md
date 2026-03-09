@@ -37,6 +37,7 @@ BookShelf es una aplicación Android que permite buscar libros utilizando la API
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/jasv18/BookShelf.git
+   ```
 2. Abre el proyecto con Android Studio (Iguana o superior).
 
 3. Sincroniza las dependencias con Gradle.
@@ -45,10 +46,9 @@ BookShelf es una aplicación Android que permite buscar libros utilizando la API
 
 ## Tests
 Para ejecutar los tests unitarios:
-
    ```bash
    ./gradlew testDebugUnitTest
-
+   ```
 ## Contribuciones
 Las contribuciones son bienvenidas. Si encuentras algún error o tienes una sugerencia, abre un issue o envía un pull request.
 
